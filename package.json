@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "lab1",
+  "main": "read_file_examples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Quitiquit",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.1.0"
+  }
+}
